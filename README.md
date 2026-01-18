@@ -1,83 +1,60 @@
-👋 Hi, I'm Sabin Adhikari
+# 👋 Hi, I’m Sabin Adhikari
 
-🎓 Computer Science Student | 💻 Software & Web Developer | 🤖 AI & Data Enthusiast
+### 💡 i do software & web things
 
-Welcome to my GitHub profile! I’m a computer science student who loves building real-world projects, especially in web development, Java applications, and AI-based systems. I enjoy learning new technologies and turning ideas into working software.
+I’m a passionate **Computer Science student from Nepal**, currently learning & building **web applications, Java systems, and AI/Data projects**. I love exploring new technologies and constantly improving my skills through real projects and open source contributions.
 
-🚀 About Me
+---
 
-🎓 Studying Computer Science at Islington College
+## 🧠 About Me
 
-🧠 Interested in AI, Data Science, and Software Engineering
+- 🎓 Studying **Computer Science at Islington College**
+- 💻 Building projects with **Java, JSP/Servlets, Python, JS**
+- 📊 Exploring **Data Science & Machine Learning**
+- 📌 Interested in **software engineering**, full-stack dev, and AI systems
 
-🔨 Building academic and personal projects
+---
 
-🌱 Currently improving my skills in Java, Web Development, Databases, and Machine Learning
+## 🔭 What I’m Working On
 
-🎯 Goal: Become a strong software engineer and work on impactful tech solutions
+Here are some of my ongoing or recent projects:
 
-🛠️ Skills & Technologies
+---
 
-Languages:
+## 📌 Pinned Repositories
 
-Java, Python, JavaScript, SQL
+<!-- You can update the names/descriptions after you pin your repos -->
+**⭐ Check out my work**
 
-Web & App Development:
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Traffic-Monitoring-AI** | AI-based vehicle detection & traffic analysis | Python, CV |
+| **Travel-Agency-Webapp** | JSP/Servlet web application with booking modules | Java, MySQL |
+| **Inventory-Management-System** | School/College inventory system | Java, SQL |
+| **Python-Scripts & Tools** | Useful small Python tools & scripts | Python |
 
-HTML, CSS, JSP, Servlets
+---
 
-MySQL, XAMPP
+## 📫 Connect With Me
 
-Git & GitHub
+Let’s connect and collaborate!
 
-AI / Data:
+🔗 **Website:** *(your portfolio link — add later)*  
+📩 **Email:** *(your email here)*  
+🐙 **GitHub:** https://github.com/YourUsername  
+💼 **LinkedIn:** *(your LinkedIn URL)*
 
-Machine Learning basics
+---
 
-Data analysis & visualization
+### 📊 GitHub Stats
 
-Computer vision (vehicle detection project)
+<!-- optional optional — you can add GitHub stats cards here later -->
 
-Other:
+---
 
-Project documentation
+Thanks for visiting! 😊  
+I’m always open to feedback, collabs, and new opportunities!
 
-System design (DFD, ERD, UML, Flowcharts)
+---
 
-📌 Featured Projects
-
-Here are some of the projects I’ve worked on:
-
-🚦 Smart Traffic Monitoring System
-
-AI-based system to detect vehicles from video footage and monitor traffic conditions.
-
-🌍 Travel Agency Management System
-
-Full web application using JSP & Servlets with booking modules (flight, hotel, vehicle, travel packages).
-
-🏨 Inventory & Management Systems
-
-Academic projects involving databases, system design, and web interfaces.
-
-➡️ Check my repositories to see more.
-
-📊 What I’m Currently Doing
-
-🔍 Learning Data Science & Machine Learning
-
-🏗️ Improving full-stack development skills
-
-📁 Building stronger academic and portfolio projects
-
-📚 Preparing for higher studies and internships
-
-🤝 Let’s Connect
-
-💼 GitHub: (you’re already here 😄)
-
-📧 Email: (add your professional email)
-
-🌐 Portfolio: (add later when you make one)
-
-⭐ If you like any of my projects, feel free to star them and follow me!
+*Made with ❤️ by Sabin Adhikari*
