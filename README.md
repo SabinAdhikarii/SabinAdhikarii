@@ -1,3 +1,6 @@
+[![Visits Badge](https://komarev.com/ghpvc/?username=SabinAdhikarii&label=Profile%20views&color=770677&style=flat)](https://sabinadhikari.com)
+[![](https://wakatime.com/badge/user/683edc2d-f7c3-4c58-a817-73299e89b1b3.svg)](https://wakatime.com/@sabinadhikari)
+
 <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=3BAC66&width=700&lines=Hi+there%2C+I'm+Sabin+Adhikari!+%F0%9F%91%8B)](https://git.io/typing-svg)
