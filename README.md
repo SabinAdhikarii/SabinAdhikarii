@@ -13,36 +13,14 @@ I’m a passionate **Computer Science student from Nepal**, currently learning &
 - 📊 Exploring **Data Science & Machine Learning**
 - 📌 Interested in **software engineering**, full-stack dev, and AI systems
 
----
-
-## 🔭 What I’m Working On
-
-Here are some of my ongoing or recent projects:
-
----
-
-## 📌 Pinned Repositories
-
-<!-- You can update the names/descriptions after you pin your repos -->
-**⭐ Check out my work**
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Traffic-Monitoring-AI** | AI-based vehicle detection & traffic analysis | Python, CV |
-| **Travel-Agency-Webapp** | JSP/Servlet web application with booking modules | Java, MySQL |
-| **Inventory-Management-System** | School/College inventory system | Java, SQL |
-| **Python-Scripts & Tools** | Useful small Python tools & scripts | Python |
-
----
-
 ## 📫 Connect With Me
 
 Let’s connect and collaborate!
 
-🔗 **Website:** *(your portfolio link — add later)*  
-📩 **Email:** *(your email here)*  
+🔗 **Website:** *(www.sabinadhikari.com)*  
+📩 **Email:** *(sabinofficial99@gmail.com)*  
 🐙 **GitHub:** https://github.com/YourUsername  
-💼 **LinkedIn:** *(your LinkedIn URL)*
+💼 **LinkedIn:** *(https://www.linkedin.com/in/sabin--adhikari/)*
 
 ---
 
