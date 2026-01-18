@@ -33,15 +33,16 @@ I’m a passionate **Computer Science student from Nepal**, currently learning &
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabinAdhikarii&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabinAdhikarii&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SabinAdhikarii&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinAdhikarii&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabinAdhikarii&theme=tokyonight" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabinAdhikarii&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ⭐ *Made with ❤️ by Sabin Adhikari*
