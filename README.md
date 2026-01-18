@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Sabin Adhikari
+#<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+Sabin+Adhikari;Computer+Science+Student;Software+%26+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 ### 💡 i do software & web things
 
