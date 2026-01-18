@@ -27,6 +27,8 @@ I’m a passionate **Computer Science student from Nepal**, currently learning &
 <a href="https://www.facebook.com/SabinAdhikari99"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="30"/></a>
 <a href="https://www.instagram.com/__sabin_adhikari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/></a>
 </p>
+
 ---
+
 
 ⭐ *Made with ❤️ by Sabin Adhikari*
