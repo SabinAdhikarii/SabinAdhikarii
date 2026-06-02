@@ -5,21 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=FF8C00&width=700&lines=Hi+there%2C+I'm+Sabbu!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### 💡 AI/ML Engineer
-🤖 Aspiring AI/ML Engineer | NLP · Computer Vision · Data Science |
+###  AI/ML Engineer
+Aspiring AI/ML Engineer | NLP · Computer Vision · Data Science |
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Studying **Computer Science at Islington College**  
-- 💻 Building projects with **Java, JSP/Servlets, Python, JavaScript**  
-- 📊 Exploring **Data Science & Machine Learning**  
-- 📌 Interested in **Software Engineering, Full-Stack Development, and AI systems**
+-  Building projects with **Java, JSP/Servlets, Python, JavaScript**  
+-  Exploring **Data Science & Machine Learning**  
+-  Interested in **Software Engineering, Full-Stack Development, and AI systems**
 ---
 
 
-## 📈 Activity
+##  Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=SabinAdhikarii)](https://git.io/streak-stats)
 
 
@@ -37,4 +36,6 @@
 
 
 
-⭐ *Made with ❤️ by Sabin Adhikari*
+
+
+*Made with ❤️ by Sabin Adhikari*
