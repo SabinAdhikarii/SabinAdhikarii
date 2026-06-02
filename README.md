@@ -16,7 +16,13 @@
 - 💻 Building projects with **Java, JSP/Servlets, Python, JavaScript**  
 - 📊 Exploring **Data Science & Machine Learning**  
 - 📌 Interested in **Software Engineering, Full-Stack Development, and AI systems**
+---
 
+---
+## 📈 GitHub Stats
+
+![Sabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabinAdhikari&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabinAdhikarii&layout=compact&theme=default&hide_border=true)
 ---
 
 <h3 align="left">Connect with me:</h3>
