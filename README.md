@@ -18,12 +18,10 @@
 - 📌 Interested in **Software Engineering, Full-Stack Development, and AI systems**
 ---
 
----
-## 📈 GitHub Stats
-![Sabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabinAdhikarii&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabinAdhikarii&layout=compact&theme=default&hide_border=true)
 
----
+## 📈 Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=SabinAdhikarii)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
