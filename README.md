@@ -12,9 +12,11 @@ Aspiring AI/ML Engineer | NLP · Computer Vision · Data Science |
 
 ## About Me
 
+-  **AI/ML Engineer** building robust AI system
+-  Building **AI Automation** with n8n
 -  Building projects with **Java, JSP/Servlets, Python, JavaScript**  
 -  Exploring **Data Science & Machine Learning**  
--  Interested in **Software Engineering, Full-Stack Development, and AI systems**
+-  
 ---
 
 
