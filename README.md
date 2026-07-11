@@ -23,7 +23,8 @@ Aspiring AI/ML Engineer | NLP · Computer Vision · Data Science |
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=SabinAdhikarii)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SabinAdhikarii&theme=cobalt&hide_border=true&border_radius=14.8&short_numbers=true&card_width=486&card_height=170)](https://git.io/streak-stats)
+
+<img width="1882" height="836" alt="Image" src="https://github.com/user-attachments/assets/ebcf39a3-c554-4cc5-8b39-ee95b5fdee69" />
 
 
 <h3 align="left">Connect with me:</h3>
